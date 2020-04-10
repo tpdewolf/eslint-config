@@ -31,7 +31,7 @@ module.exports = {
     "@typescript-eslint/no-use-before-define": "off",
     "@typescript-eslint/no-unused-vars": [
       "warn",
-      { argsIgnorePattern: "^_|req|res|next|err|ctx" },
+      { argsIgnorePattern: "^_|req|res|next|err|ctx|args|context|info" },
     ],
     "@typescript-eslint/no-object-literal-type-assertion": "off",
     "@typescript-eslint/explicit-member-accessibility": "off",
