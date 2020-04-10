@@ -11,7 +11,8 @@
     "eslintconfig"
   ],
   "author": "Tim de Wolf",
-  "license": "ISC",
+  "repository": "github:tpdewolf/eslint-config",
+  "license": "MIT",
   "peerDependencies": {
     "eslint": ">=6"
   },
